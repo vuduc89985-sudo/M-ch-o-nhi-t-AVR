@@ -1,0 +1,3 @@
+Change component parameters: Designator = "IC2" ("IC2"); Footprint = "QTO-220"; UniqueID = "\PCNNMXLH" ("\PCNNMXLH")
+Change component parameters (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Room: Name=DOAN2
